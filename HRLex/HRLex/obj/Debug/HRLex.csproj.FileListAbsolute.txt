@@ -1,0 +1,9 @@
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\bin\Debug\HRLex.exe.config
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\bin\Debug\HRLex.exe
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\bin\Debug\HRLex.pdb
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\obj\Debug\HRLex.csprojResolveAssemblyReference.cache
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\obj\Debug\HRLex.Properties.Resources.resources
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\obj\Debug\HRLex.csproj.GenerateResource.Cache
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\obj\Debug\HRLex.exe
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\obj\Debug\HRLex.pdb
+C:\Users\Adik\Dysk Google\W trakcie prac\Kadry - P. Konopka\HRLex\HRLex\obj\Debug\HRLex.Main.resources
